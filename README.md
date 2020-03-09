@@ -1,17 +1,17 @@
 # FIS2017
 Milking time hygiene interventions reduce spore counts in raw milk
 
-Query_for_Stats
+Query_for_Stats:
 raw data for the study
 
-read_data
+read_data:
 code to read and format data
 
-plots
+plots:
 code for the plots 
 
-stats
+stats:
 code for the statistics performed
 
-011618_means
+011618_means:
 code used for descriptive statistics (mean, standard deviation, etc.) of sections of data
